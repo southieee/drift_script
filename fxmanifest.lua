@@ -1,4 +1,8 @@
-fx_version "cerulean"
-game "gta5"
+fx_version 'cerulean'
+game 'gta5'
 
-client_script "client.lua"
+client_script 'client.lua'
+
+files {
+    'handling.meta', 
+}
