@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<handlingDataMgr>
+  <Item type="CHandlingData">
+    <handlingName>DRIFT</handlingName>
+    <!-- Other existing handling data values... -->
+    
+    <fInitialDragCoeff value="90.22" />
+    <fDriveInertia value="0.31" />
+    <fSteeringLock value="22" />
+    <fTractionCurveMax value="-1.1" />
+    <fTractionCurveMin value="-0.4" />
+    <fTractionCurveLateral value="2.5" />
+    <fLowSpeedTractionLossMult value="-0.57" />
+
+    <!-- Other existing handling data values... -->
+  </Item>
+</handlingDataMgr>
